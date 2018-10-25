@@ -1,8 +1,7 @@
 # Cbthelper
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cbthelper`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+cbthelper (Ruby) wraps CrossBrowserTesting's selenium api into an easy to use library.
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See example.rb. Don't forget to set your username and authkey in that file.
 
 ## Development
 
