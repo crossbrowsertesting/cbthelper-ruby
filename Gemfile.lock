@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    cbthelper (1.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 2.1.0)
+  cbthelper!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.1.4
